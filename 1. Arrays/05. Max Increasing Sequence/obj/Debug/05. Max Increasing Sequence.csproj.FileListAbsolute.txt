@@ -1,0 +1,10 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\bin\Debug\_05.Max_Increasing_Sequence.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\bin\Debug\_05.Max_Increasing_Sequence.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\obj\Debug\05. Max Increasing Sequence.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\obj\Debug\_05.Max_Increasing_Sequence.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\obj\Debug\_05.Max_Increasing_Sequence.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\obj\Debug\_05.Max_Increasing_Sequence.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\obj\Debug\_05.Max_Increasing_Sequence.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\bin\Debug\_05.Max_Increasing_Sequence.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\bin\Debug\_05.Max_Increasing_Sequence.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\05. Max Increasing Sequence\obj\Debug\05. Max Increasing Sequence.csprojResolveAssemblyReference.cache

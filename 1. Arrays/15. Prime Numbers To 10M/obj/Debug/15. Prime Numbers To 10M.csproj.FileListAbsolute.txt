@@ -1,0 +1,7 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\15. Prime Numbers To 10M\bin\Debug\_15.Prime_Numbers_To_10M.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\15. Prime Numbers To 10M\bin\Debug\_15.Prime_Numbers_To_10M.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\15. Prime Numbers To 10M\obj\Debug\15. Prime Numbers To 10M.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\15. Prime Numbers To 10M\obj\Debug\_15.Prime_Numbers_To_10M.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\15. Prime Numbers To 10M\obj\Debug\_15.Prime_Numbers_To_10M.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\15. Prime Numbers To 10M\obj\Debug\_15.Prime_Numbers_To_10M.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\15. Prime Numbers To 10M\obj\Debug\_15.Prime_Numbers_To_10M.pdb

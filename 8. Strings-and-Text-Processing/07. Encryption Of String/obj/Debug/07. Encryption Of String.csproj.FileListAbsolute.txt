@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\07. Encryption Of String\bin\Debug\_07.Encryption_Of_String.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\07. Encryption Of String\bin\Debug\_07.Encryption_Of_String.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\07. Encryption Of String\obj\Debug\07. Encryption Of String.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\07. Encryption Of String\obj\Debug\_07.Encryption_Of_String.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\07. Encryption Of String\obj\Debug\_07.Encryption_Of_String.pdb

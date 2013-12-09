@@ -1,0 +1,11 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\bin\Debug\_02.Max_Value_Method.exe.config
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\bin\Debug\_02.Max_Value_Method.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\bin\Debug\_02.Max_Value_Method.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\obj\Debug\02. Max Value Method.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\obj\Debug\_02.Max_Value_Method.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\obj\Debug\_02.Max_Value_Method.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\obj\Debug\_02.Max_Value_Method.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\obj\Debug\_02.Max_Value_Method.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\bin\Debug\_02.Max_Value_Method.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\bin\Debug\_02.Max_Value_Method.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\02. Max Value Method\obj\Debug\02. Max Value Method.csprojResolveAssemblyReference.cache

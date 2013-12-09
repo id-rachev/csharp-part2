@@ -1,0 +1,10 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\bin\Debug\_1.Number_Validation.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\bin\Debug\_1.Number_Validation.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\obj\Debug\1. Number Validation.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\obj\Debug\_1.Number_Validation.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\obj\Debug\_1.Number_Validation.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\obj\Debug\_1.Number_Validation.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\obj\Debug\_1.Number_Validation.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\bin\Debug\_1.Number_Validation.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\bin\Debug\_1.Number_Validation.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\1. Number Validation\obj\Debug\1. Number Validation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\2. Read Num In Range Valid\bin\Debug\_2.Read_Num_In_Range_Valid.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\2. Read Num In Range Valid\bin\Debug\_2.Read_Num_In_Range_Valid.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\2. Read Num In Range Valid\obj\Debug\2. Read Num In Range Valid.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\2. Read Num In Range Valid\obj\Debug\_2.Read_Num_In_Range_Valid.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\2. Read Num In Range Valid\obj\Debug\_2.Read_Num_In_Range_Valid.pdb

@@ -1,0 +1,10 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\bin\Debug\_05.Read_Matrix_Write_Area_Sum.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\bin\Debug\_05.Read_Matrix_Write_Area_Sum.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\obj\Debug\05. Read Matrix Write Area Sum.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\obj\Debug\_05.Read_Matrix_Write_Area_Sum.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\obj\Debug\_05.Read_Matrix_Write_Area_Sum.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\obj\Debug\_05.Read_Matrix_Write_Area_Sum.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\obj\Debug\_05.Read_Matrix_Write_Area_Sum.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\bin\Debug\_05.Read_Matrix_Write_Area_Sum.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\bin\Debug\_05.Read_Matrix_Write_Area_Sum.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\05. Read Matrix Write Area Sum\obj\Debug\05. Read Matrix Write Area Sum.csprojResolveAssemblyReference.cache

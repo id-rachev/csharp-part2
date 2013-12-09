@@ -1,0 +1,4 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\03. Day Of Week\bin\Debug\_03.Day_Of_Week.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\03. Day Of Week\bin\Debug\_03.Day_Of_Week.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\03. Day Of Week\obj\Debug\_03.Day_Of_Week.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\03. Day Of Week\obj\Debug\_03.Day_Of_Week.pdb

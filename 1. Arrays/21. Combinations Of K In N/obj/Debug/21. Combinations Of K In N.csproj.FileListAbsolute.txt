@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\21. Combinations Of K In N\bin\Debug\_21.Combinations_Of_K_In_N.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\21. Combinations Of K In N\bin\Debug\_21.Combinations_Of_K_In_N.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\21. Combinations Of K In N\obj\Debug\_21.Combinations_Of_K_In_N.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\21. Combinations Of K In N\obj\Debug\_21.Combinations_Of_K_In_N.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\21. Combinations Of K In N\obj\Debug\_21.Combinations_Of_K_In_N.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\21. Combinations Of K In N\obj\Debug\_21.Combinations_Of_K_In_N.pdb

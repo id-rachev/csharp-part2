@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\03. Are Brackets Put Correctly\obj\Debug\03. Are Brackets Put Correctly.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\03. Are Brackets Put Correctly\bin\Debug\_03.Are_Brackets_Put_Correctly.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\03. Are Brackets Put Correctly\bin\Debug\_03.Are_Brackets_Put_Correctly.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\03. Are Brackets Put Correctly\obj\Debug\_03.Are_Brackets_Put_Correctly.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\03. Are Brackets Put Correctly\obj\Debug\_03.Are_Brackets_Put_Correctly.pdb

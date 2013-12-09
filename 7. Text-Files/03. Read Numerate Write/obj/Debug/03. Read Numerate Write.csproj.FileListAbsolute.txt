@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\03. Read Numerate Write\bin\Debug\_03.Read_Numerate_Write.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\03. Read Numerate Write\bin\Debug\_03.Read_Numerate_Write.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\03. Read Numerate Write\obj\Debug\03. Read Numerate Write.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\03. Read Numerate Write\obj\Debug\_03.Read_Numerate_Write.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\03. Read Numerate Write\obj\Debug\_03.Read_Numerate_Write.pdb

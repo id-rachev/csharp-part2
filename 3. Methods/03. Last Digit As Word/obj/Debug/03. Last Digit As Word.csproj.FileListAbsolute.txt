@@ -1,0 +1,7 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\03. Last Digit As Word\bin\Debug\_03.Last_Digit_As_Word.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\03. Last Digit As Word\bin\Debug\_03.Last_Digit_As_Word.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\03. Last Digit As Word\obj\Debug\03. Last Digit As Word.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\03. Last Digit As Word\obj\Debug\_03.Last_Digit_As_Word.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\03. Last Digit As Word\obj\Debug\_03.Last_Digit_As_Word.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\03. Last Digit As Word\obj\Debug\_03.Last_Digit_As_Word.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\03. Last Digit As Word\obj\Debug\_03.Last_Digit_As_Word.pdb

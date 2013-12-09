@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\Practical Exam 2\Durankulak Numbers\bin\Debug\Durankulak Numbers.exe.config
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\Practical Exam 2\Durankulak Numbers\bin\Debug\Durankulak Numbers.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\Practical Exam 2\Durankulak Numbers\bin\Debug\Durankulak Numbers.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\Practical Exam 2\Durankulak Numbers\obj\Debug\Durankulak Numbers.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\Practical Exam 2\Durankulak Numbers\obj\Debug\Durankulak Numbers.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\Practical Exam 2\Durankulak Numbers\obj\Debug\Durankulak Numbers.csprojResolveAssemblyReference.cache

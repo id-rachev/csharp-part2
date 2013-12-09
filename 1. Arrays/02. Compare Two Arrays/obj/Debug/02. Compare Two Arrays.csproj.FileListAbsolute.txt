@@ -1,0 +1,8 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\2. Compare Two Arrays\obj\Debug\_2.Compare_Two_Arrays.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\2. Compare Two Arrays\obj\Debug\_2.Compare_Two_Arrays.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\02. Compare Two Arrays\obj\Debug\_2.Compare_Two_Arrays.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\02. Compare Two Arrays\obj\Debug\_2.Compare_Two_Arrays.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\02. Compare Two Arrays\bin\Debug\_2.Compare_Two_Arrays.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\02. Compare Two Arrays\bin\Debug\_2.Compare_Two_Arrays.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\02. Compare Two Arrays\obj\Debug\_2.Compare_Two_Arrays.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\02. Compare Two Arrays\obj\Debug\_2.Compare_Two_Arrays.pdb

@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\14. Quick Sort Algo\bin\Debug\_14.Quick_Sort_Algo.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\14. Quick Sort Algo\bin\Debug\_14.Quick_Sort_Algo.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\14. Quick Sort Algo\obj\Debug\14. Quick Sort Algo.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\14. Quick Sort Algo\obj\Debug\_14.Quick_Sort_Algo.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\14. Quick Sort Algo\obj\Debug\_14.Quick_Sort_Algo.pdb

@@ -1,0 +1,7 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\5. Convert Hexadecimal To Binary\bin\Debug\_5.Convert_Hexadecimal_To_Binary.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\5. Convert Hexadecimal To Binary\bin\Debug\_5.Convert_Hexadecimal_To_Binary.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\5. Convert Hexadecimal To Binary\obj\Debug\5. Convert Hexadecimal To Binary.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\5. Convert Hexadecimal To Binary\obj\Debug\_5.Convert_Hexadecimal_To_Binary.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\5. Convert Hexadecimal To Binary\obj\Debug\_5.Convert_Hexadecimal_To_Binary.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\5. Convert Hexadecimal To Binary\obj\Debug\_5.Convert_Hexadecimal_To_Binary.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\5. Convert Hexadecimal To Binary\obj\Debug\_5.Convert_Hexadecimal_To_Binary.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\bin\Debug\_06.Max_Sum_Of_K_Elements.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\bin\Debug\_06.Max_Sum_Of_K_Elements.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\obj\Debug\06. Max Sum Of K Elements.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\obj\Debug\_06.Max_Sum_Of_K_Elements.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\obj\Debug\_06.Max_Sum_Of_K_Elements.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\bin\Debug\_06.Max_Sum_Of_K_Elements.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\bin\Debug\_06.Max_Sum_Of_K_Elements.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\obj\Debug\06. Max Sum Of K Elements.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\obj\Debug\_06.Max_Sum_Of_K_Elements.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\06. Max Sum Of K Elements\obj\Debug\_06.Max_Sum_Of_K_Elements.pdb

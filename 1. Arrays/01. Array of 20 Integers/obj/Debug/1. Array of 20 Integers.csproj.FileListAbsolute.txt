@@ -1,0 +1,8 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Arrays\1. Array of 20 Integers\bin\Debug\_1.Array_of_20_Integers.exe.config
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\1. Array of 20 Integers\bin\Debug\_1.Array_of_20_Integers.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\1. Array of 20 Integers\bin\Debug\_1.Array_of_20_Integers.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\1. Array of 20 Integers\obj\Debug\1. Array of 20 Integers.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\1. Array of 20 Integers\obj\Debug\_1.Array_of_20_Integers.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\1. Array of 20 Integers\obj\Debug\_1.Array_of_20_Integers.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\1. Array of 20 Integers\obj\Debug\_1.Array_of_20_Integers.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\1. Array of 20 Integers\obj\Debug\_1.Array_of_20_Integers.pdb

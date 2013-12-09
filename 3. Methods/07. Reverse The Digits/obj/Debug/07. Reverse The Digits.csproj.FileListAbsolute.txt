@@ -1,0 +1,1 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\07. Reverse The Digits\bin\Debug\_07.Reverse_The_Digits.exe.config

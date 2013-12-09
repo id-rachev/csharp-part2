@@ -1,0 +1,8 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\4. Convert Hexadecimal To Decimal\bin\Debug\_4.Convert_Hexadecimal_To_Decimal.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\4. Convert Hexadecimal To Decimal\bin\Debug\_4.Convert_Hexadecimal_To_Decimal.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\4. Convert Hexadecimal To Decimal\obj\Debug\_4.Convert_Hexadecimal_To_Decimal.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\4. Convert Hexadecimal To Decimal\obj\Debug\_4.Convert_Hexadecimal_To_Decimal.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\4. Convert Hexadecimal To Decimal\obj\Debug\_4.Convert_Hexadecimal_To_Decimal.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\4. Convert Hexadecimal To Decimal\obj\Debug\_4.Convert_Hexadecimal_To_Decimal.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\4. Convert Hexadecimal To Decimal\bin\Debug\_4.Convert_Hexadecimal_To_Decimal.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\4. Convert Hexadecimal To Decimal\bin\Debug\_4.Convert_Hexadecimal_To_Decimal.pdb

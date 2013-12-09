@@ -1,0 +1,7 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\1. Convert Decimal To Binary\bin\Debug\_1.Convert_Decimal_To_Binary.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\1. Convert Decimal To Binary\bin\Debug\_1.Convert_Decimal_To_Binary.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\1. Convert Decimal To Binary\obj\Debug\1. Convert Decimal To Binary.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\1. Convert Decimal To Binary\obj\Debug\_1.Convert_Decimal_To_Binary.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\1. Convert Decimal To Binary\obj\Debug\_1.Convert_Decimal_To_Binary.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\1. Convert Decimal To Binary\obj\Debug\_1.Convert_Decimal_To_Binary.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\4. Numeral-Systems\1. Convert Decimal To Binary\obj\Debug\_1.Convert_Decimal_To_Binary.pdb

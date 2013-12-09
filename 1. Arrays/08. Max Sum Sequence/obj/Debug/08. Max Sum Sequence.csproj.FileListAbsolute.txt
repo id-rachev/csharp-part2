@@ -1,0 +1,10 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\bin\Debug\_08.Max_Sum_Sequence.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\bin\Debug\_08.Max_Sum_Sequence.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\obj\Debug\08. Max Sum Sequence.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\obj\Debug\_08.Max_Sum_Sequence.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\obj\Debug\_08.Max_Sum_Sequence.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\obj\Debug\_08.Max_Sum_Sequence.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\obj\Debug\_08.Max_Sum_Sequence.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\bin\Debug\_08.Max_Sum_Sequence.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\bin\Debug\_08.Max_Sum_Sequence.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\08. Max Sum Sequence\obj\Debug\08. Max Sum Sequence.csprojResolveAssemblyReference.cache

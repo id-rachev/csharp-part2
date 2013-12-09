@@ -1,0 +1,1 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\10. Factorial Method\bin\Debug\_10.Factorial_Method.exe.config

@@ -1,0 +1,10 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\bin\Debug\_04.Max_Sequence_In_Array.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\bin\Debug\_04.Max_Sequence_In_Array.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\obj\Debug\04. Max Sequence In Array.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\obj\Debug\_04.Max_Sequence_In_Array.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\obj\Debug\_04.Max_Sequence_In_Array.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\obj\Debug\_04.Max_Sequence_In_Array.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\obj\Debug\_04.Max_Sequence_In_Array.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\bin\Debug\_04.Max_Sequence_In_Array.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\bin\Debug\_04.Max_Sequence_In_Array.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\04. Max Sequence In Array\obj\Debug\04. Max Sequence In Array.csprojResolveAssemblyReference.cache

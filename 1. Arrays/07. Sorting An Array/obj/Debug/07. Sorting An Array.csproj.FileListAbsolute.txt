@@ -1,0 +1,7 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\07. Sorting An Array\bin\Debug\_07.Sorting_An_Array.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\07. Sorting An Array\bin\Debug\_07.Sorting_An_Array.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\07. Sorting An Array\obj\Debug\07. Sorting An Array.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\07. Sorting An Array\obj\Debug\_07.Sorting_An_Array.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\07. Sorting An Array\obj\Debug\_07.Sorting_An_Array.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\07. Sorting An Array\obj\Debug\_07.Sorting_An_Array.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\07. Sorting An Array\obj\Debug\_07.Sorting_An_Array.pdb

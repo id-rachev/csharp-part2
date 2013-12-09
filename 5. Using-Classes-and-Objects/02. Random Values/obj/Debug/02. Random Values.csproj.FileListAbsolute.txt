@@ -1,0 +1,4 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\02. Random Values\bin\Debug\_02.Random_Values.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\02. Random Values\bin\Debug\_02.Random_Values.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\02. Random Values\obj\Debug\_02.Random_Values.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\02. Random Values\obj\Debug\_02.Random_Values.pdb

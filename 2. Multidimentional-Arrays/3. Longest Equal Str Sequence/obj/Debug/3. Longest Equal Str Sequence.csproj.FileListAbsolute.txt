@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\3. Longest Equal Str Sequence\bin\Debug\_3.Longest_Equal_Str_Sequence.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\3. Longest Equal Str Sequence\bin\Debug\_3.Longest_Equal_Str_Sequence.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\3. Longest Equal Str Sequence\obj\Debug\3. Longest Equal Str Sequence.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\3. Longest Equal Str Sequence\obj\Debug\_3.Longest_Equal_Str_Sequence.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\3. Longest Equal Str Sequence\obj\Debug\_3.Longest_Equal_Str_Sequence.pdb

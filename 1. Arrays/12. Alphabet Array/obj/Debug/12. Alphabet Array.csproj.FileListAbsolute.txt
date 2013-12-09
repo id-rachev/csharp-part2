@@ -1,0 +1,4 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\12. Alphabet Array\bin\Debug\_12.Alphabet_Array.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\12. Alphabet Array\bin\Debug\_12.Alphabet_Array.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\12. Alphabet Array\obj\Debug\_12.Alphabet_Array.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\12. Alphabet Array\obj\Debug\_12.Alphabet_Array.pdb

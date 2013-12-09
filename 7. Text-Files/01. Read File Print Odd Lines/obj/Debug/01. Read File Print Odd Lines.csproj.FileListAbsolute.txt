@@ -1,0 +1,7 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\01. Read File Print Odd Lines\bin\Debug\_01.Read_File_Print_Odd_Lines.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\01. Read File Print Odd Lines\bin\Debug\_01.Read_File_Print_Odd_Lines.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\01. Read File Print Odd Lines\obj\Debug\01. Read File Print Odd Lines.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\01. Read File Print Odd Lines\obj\Debug\_01.Read_File_Print_Odd_Lines.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\01. Read File Print Odd Lines\obj\Debug\_01.Read_File_Print_Odd_Lines.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\01. Read File Print Odd Lines\obj\Debug\_01.Read_File_Print_Odd_Lines.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\01. Read File Print Odd Lines\obj\Debug\_01.Read_File_Print_Odd_Lines.pdb

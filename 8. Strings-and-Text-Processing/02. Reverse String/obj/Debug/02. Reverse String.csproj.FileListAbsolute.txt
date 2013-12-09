@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\02. Reverse String\bin\Debug\_02.Reverse_String.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\02. Reverse String\bin\Debug\_02.Reverse_String.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\02. Reverse String\obj\Debug\02. Reverse String.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\02. Reverse String\obj\Debug\_02.Reverse_String.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\02. Reverse String\obj\Debug\_02.Reverse_String.pdb

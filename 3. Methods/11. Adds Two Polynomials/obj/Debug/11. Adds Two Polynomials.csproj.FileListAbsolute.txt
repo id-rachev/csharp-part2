@@ -1,0 +1,1 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\11. Adds Two Polynomials\bin\Debug\_11.Adds_Two_Polynomials.exe.config

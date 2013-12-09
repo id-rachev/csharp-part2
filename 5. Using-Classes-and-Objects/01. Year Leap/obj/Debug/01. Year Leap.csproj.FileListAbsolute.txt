@@ -1,0 +1,7 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\01. Year Leap\bin\Debug\_01.Year_Leap.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\01. Year Leap\bin\Debug\_01.Year_Leap.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\01. Year Leap\bin\Debug\_01.Year_Leap.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\01. Year Leap\bin\Debug\_01.Year_Leap.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\01. Year Leap\obj\Debug\01. Year Leap.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\01. Year Leap\obj\Debug\_01.Year_Leap.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\01. Year Leap\obj\Debug\_01.Year_Leap.pdb

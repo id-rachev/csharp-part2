@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\05. Uppercase In Tags\bin\Debug\_05.Uppercase_In_Tags.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\05. Uppercase In Tags\bin\Debug\_05.Uppercase_In_Tags.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\05. Uppercase In Tags\obj\Debug\05. Uppercase In Tags.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\05. Uppercase In Tags\obj\Debug\_05.Uppercase_In_Tags.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\05. Uppercase In Tags\obj\Debug\_05.Uppercase_In_Tags.pdb

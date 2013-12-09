@@ -1,0 +1,10 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\bin\Debug\_4.Download_File_Validation.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\bin\Debug\_4.Download_File_Validation.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\obj\Debug\_4.Download_File_Validation.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\obj\Debug\_4.Download_File_Validation.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\obj\Debug\_4.Download_File_Validation.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\obj\Debug\_4.Download_File_Validation.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\bin\Debug\_4.Download_File_Validation.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\bin\Debug\_4.Download_File_Validation.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\obj\Debug\4. Download File Validation.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\4. Download File Validation\obj\Debug\4. Download File Validation.csprojResolveAssemblyReference.cache

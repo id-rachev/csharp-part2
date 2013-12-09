@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Matrix Fills and Prints", "1. Matrix Fills and Prints\1. Matrix Fills and Prints.csproj", "{04925CE2-7318-4420-8535-BDB0E5AFB4C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Max Sum Square of 3", "2. Max Sum Square of 3\2. Max Sum Square of 3.csproj", "{36C387BE-D698-4032-B9D6-D919C7D4F85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Equal Str Sequence", "3. Longest Equal Str Sequence\3. Longest Equal Str Sequence.csproj", "{FBE5CB14-D8DB-422C-AFE2-1A13192F0E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Search To K In Array Of N", "4. Search To K In Array Of N\4. Search To K In Array Of N.csproj", "{6AC728CD-8E90-46AE-A99B-A5BD802066D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Sort By Elements Length", "5. Sort By Elements Length\5. Sort By Elements Length.csproj", "{D879D564-FC6E-4A04-92E7-B1742A6CCCD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04925CE2-7318-4420-8535-BDB0E5AFB4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04925CE2-7318-4420-8535-BDB0E5AFB4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04925CE2-7318-4420-8535-BDB0E5AFB4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04925CE2-7318-4420-8535-BDB0E5AFB4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C387BE-D698-4032-B9D6-D919C7D4F85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C387BE-D698-4032-B9D6-D919C7D4F85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C387BE-D698-4032-B9D6-D919C7D4F85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C387BE-D698-4032-B9D6-D919C7D4F85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE5CB14-D8DB-422C-AFE2-1A13192F0E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE5CB14-D8DB-422C-AFE2-1A13192F0E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE5CB14-D8DB-422C-AFE2-1A13192F0E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE5CB14-D8DB-422C-AFE2-1A13192F0E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC728CD-8E90-46AE-A99B-A5BD802066D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC728CD-8E90-46AE-A99B-A5BD802066D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC728CD-8E90-46AE-A99B-A5BD802066D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC728CD-8E90-46AE-A99B-A5BD802066D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D879D564-FC6E-4A04-92E7-B1742A6CCCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D879D564-FC6E-4A04-92E7-B1742A6CCCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D879D564-FC6E-4A04-92E7-B1742A6CCCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D879D564-FC6E-4A04-92E7-B1742A6CCCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

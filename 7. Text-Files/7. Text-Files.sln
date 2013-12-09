@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Read File Print Odd Lines", "01. Read File Print Odd Lines\01. Read File Print Odd Lines.csproj", "{3BC9D4B4-F6B0-4A62-BAB9-8A2559C06B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Concat Two Text Files", "02. Concat Two Text Files\02. Concat Two Text Files.csproj", "{CD08D48C-D1D6-474A-95CD-DC4665FC3F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Read Numerate Write", "03. Read Numerate Write\03. Read Numerate Write.csproj", "{48C66835-D7A4-4A9E-82D1-D2517A07CEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Compare Two Files By Lines", "04. Compare Two Files By Lines\04. Compare Two Files By Lines.csproj", "{56132A43-3DDA-4C9F-99FA-66594B49714C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Read Sort Write", "06. Read Sort Write\06. Read Sort Write.csproj", "{A946F92F-A284-4F70-9F56-7F6ABD9B7008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Read Matrix Write Area Sum", "05. Read Matrix Write Area Sum\05. Read Matrix Write Area Sum.csproj", "{4ADAD0C5-DD41-4572-BD6D-9ED1CE6A74D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC9D4B4-F6B0-4A62-BAB9-8A2559C06B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC9D4B4-F6B0-4A62-BAB9-8A2559C06B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC9D4B4-F6B0-4A62-BAB9-8A2559C06B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC9D4B4-F6B0-4A62-BAB9-8A2559C06B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD08D48C-D1D6-474A-95CD-DC4665FC3F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD08D48C-D1D6-474A-95CD-DC4665FC3F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD08D48C-D1D6-474A-95CD-DC4665FC3F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD08D48C-D1D6-474A-95CD-DC4665FC3F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C66835-D7A4-4A9E-82D1-D2517A07CEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C66835-D7A4-4A9E-82D1-D2517A07CEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C66835-D7A4-4A9E-82D1-D2517A07CEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C66835-D7A4-4A9E-82D1-D2517A07CEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56132A43-3DDA-4C9F-99FA-66594B49714C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56132A43-3DDA-4C9F-99FA-66594B49714C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56132A43-3DDA-4C9F-99FA-66594B49714C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56132A43-3DDA-4C9F-99FA-66594B49714C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A946F92F-A284-4F70-9F56-7F6ABD9B7008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A946F92F-A284-4F70-9F56-7F6ABD9B7008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A946F92F-A284-4F70-9F56-7F6ABD9B7008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A946F92F-A284-4F70-9F56-7F6ABD9B7008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADAD0C5-DD41-4572-BD6D-9ED1CE6A74D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADAD0C5-DD41-4572-BD6D-9ED1CE6A74D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADAD0C5-DD41-4572-BD6D-9ED1CE6A74D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADAD0C5-DD41-4572-BD6D-9ED1CE6A74D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

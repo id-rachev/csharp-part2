@@ -1,0 +1,4 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\06. Sum Of Substrings\bin\Debug\_06.Sum_Of_Substrings.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\06. Sum Of Substrings\bin\Debug\_06.Sum_Of_Substrings.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\06. Sum Of Substrings\obj\Debug\_06.Sum_Of_Substrings.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\5. Using-Classes-and-Objects\06. Sum Of Substrings\obj\Debug\_06.Sum_Of_Substrings.pdb

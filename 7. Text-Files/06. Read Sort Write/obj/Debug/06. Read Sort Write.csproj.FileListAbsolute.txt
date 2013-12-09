@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\06. Read Sort Write\bin\Debug\_06.Read_Sort_Write.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\06. Read Sort Write\bin\Debug\_06.Read_Sort_Write.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\06. Read Sort Write\obj\Debug\_06.Read_Sort_Write.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\06. Read Sort Write\obj\Debug\_06.Read_Sort_Write.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\06. Read Sort Write\obj\Debug\_06.Read_Sort_Write.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\06. Read Sort Write\obj\Debug\_06.Read_Sort_Write.pdb

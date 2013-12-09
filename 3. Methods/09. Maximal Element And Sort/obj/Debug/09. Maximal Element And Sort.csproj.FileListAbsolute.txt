@@ -1,0 +1,1 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\09. Maximal Element And Sort\bin\Debug\_09.Maximal_Element_And_Sort.exe.config

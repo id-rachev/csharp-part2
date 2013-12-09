@@ -1,0 +1,1 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\06. First Bigger Than Neighbors\bin\Debug\_06.First_Bigger_Than_Neighbors.exe.config

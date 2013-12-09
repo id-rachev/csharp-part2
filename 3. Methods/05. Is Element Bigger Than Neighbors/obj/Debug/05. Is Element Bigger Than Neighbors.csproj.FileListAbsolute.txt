@@ -1,0 +1,1 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\05. Is Element Bigger Than Neighbors\bin\Debug\_05.Is_Element_Bigger_Than_Neighbors.exe.config

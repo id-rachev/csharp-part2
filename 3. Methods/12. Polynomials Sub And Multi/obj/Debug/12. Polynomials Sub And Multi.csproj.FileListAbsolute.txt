@@ -1,0 +1,1 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\3. Methods\12. Polynomials Sub And Multi\bin\Debug\_12.Polynomials_Sub_And_Multi.exe.config

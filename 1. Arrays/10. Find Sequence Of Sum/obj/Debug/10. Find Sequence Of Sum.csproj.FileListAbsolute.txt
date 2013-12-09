@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\10. Find Sequence Of Sum\bin\Debug\_10.Find_Sequence_Of_Sum.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\10. Find Sequence Of Sum\bin\Debug\_10.Find_Sequence_Of_Sum.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\10. Find Sequence Of Sum\obj\Debug\10. Find Sequence Of Sum.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\10. Find Sequence Of Sum\obj\Debug\_10.Find_Sequence_Of_Sum.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\10. Find Sequence Of Sum\obj\Debug\_10.Find_Sequence_Of_Sum.pdb

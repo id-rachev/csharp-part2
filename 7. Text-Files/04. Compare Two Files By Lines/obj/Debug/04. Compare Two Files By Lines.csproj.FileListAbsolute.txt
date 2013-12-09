@@ -1,0 +1,10 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\bin\Debug\_04.Compare_Two_Files_By_Lines.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\bin\Debug\_04.Compare_Two_Files_By_Lines.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\obj\Debug\_04.Compare_Two_Files_By_Lines.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\obj\Debug\_04.Compare_Two_Files_By_Lines.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\obj\Debug\_04.Compare_Two_Files_By_Lines.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\obj\Debug\_04.Compare_Two_Files_By_Lines.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\bin\Debug\_04.Compare_Two_Files_By_Lines.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\bin\Debug\_04.Compare_Two_Files_By_Lines.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\obj\Debug\04. Compare Two Files By Lines.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\04. Compare Two Files By Lines\obj\Debug\04. Compare Two Files By Lines.csprojResolveAssemblyReference.cache

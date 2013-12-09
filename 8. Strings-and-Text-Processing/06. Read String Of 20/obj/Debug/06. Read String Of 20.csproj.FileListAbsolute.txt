@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\06. Read String Of 20\bin\Debug\_06.Read_String_Of_20.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\06. Read String Of 20\bin\Debug\_06.Read_String_Of_20.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\06. Read String Of 20\obj\Debug\06. Read String Of 20.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\06. Read String Of 20\obj\Debug\_06.Read_String_Of_20.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\06. Read String Of 20\obj\Debug\_06.Read_String_Of_20.pdb

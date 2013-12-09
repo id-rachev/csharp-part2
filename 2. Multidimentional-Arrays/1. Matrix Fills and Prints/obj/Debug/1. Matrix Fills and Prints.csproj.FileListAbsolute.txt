@@ -1,0 +1,12 @@
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\bin\Debug\_1.Matrix_Fills_and_Prints.exe.config
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\bin\Debug\_1.Matrix_Fills_and_Prints.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\bin\Debug\_1.Matrix_Fills_and_Prints.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\obj\Debug\1. Matrix Fills and Prints.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\obj\Debug\_1.Matrix_Fills_and_Prints.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\obj\Debug\_1.Matrix_Fills_and_Prints.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\bin\Debug\_1.Matrix_Fills_and_Prints.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\obj\Debug\_1.Matrix_Fills_and_Prints.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\obj\Debug\_1.Matrix_Fills_and_Prints.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\bin\Debug\_1.Matrix_Fills_and_Prints.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\bin\Debug\_1.Matrix_Fills_and_Prints.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\2. Multidimentional-Arrays\1. Matrix Fills and Prints\obj\Debug\1. Matrix Fills and Prints.csprojResolveAssemblyReference.cache

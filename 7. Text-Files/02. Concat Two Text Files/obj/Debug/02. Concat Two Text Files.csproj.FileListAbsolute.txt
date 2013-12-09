@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\02. Concat Two Text Files\bin\Debug\_02.Concat_Two_Text_Files.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\02. Concat Two Text Files\bin\Debug\_02.Concat_Two_Text_Files.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\02. Concat Two Text Files\obj\Debug\02. Concat Two Text Files.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\02. Concat Two Text Files\obj\Debug\_02.Concat_Two_Text_Files.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\7. Text-Files\02. Concat Two Text Files\obj\Debug\_02.Concat_Two_Text_Files.pdb

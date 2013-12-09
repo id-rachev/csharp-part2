@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\04. Count Substring In Text\bin\Debug\_04.Count_Substring_In_Text.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\04. Count Substring In Text\bin\Debug\_04.Count_Substring_In_Text.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\04. Count Substring In Text\obj\Debug\04. Count Substring In Text.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\04. Count Substring In Text\obj\Debug\_04.Count_Substring_In_Text.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\8. Strings-and-Text-Processing\04. Count Substring In Text\obj\Debug\_04.Count_Substring_In_Text.pdb

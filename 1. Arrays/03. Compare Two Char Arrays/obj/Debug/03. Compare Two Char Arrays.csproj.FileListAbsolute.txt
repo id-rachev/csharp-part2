@@ -1,0 +1,10 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\bin\Debug\_03.Compare_Two_Char_Arrays.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\bin\Debug\_03.Compare_Two_Char_Arrays.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\obj\Debug\03. Compare Two Char Arrays.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\obj\Debug\_03.Compare_Two_Char_Arrays.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\obj\Debug\_03.Compare_Two_Char_Arrays.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\obj\Debug\_03.Compare_Two_Char_Arrays.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\obj\Debug\_03.Compare_Two_Char_Arrays.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\bin\Debug\_03.Compare_Two_Char_Arrays.exe
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\bin\Debug\_03.Compare_Two_Char_Arrays.pdb
+D:\Projects\Telerik Academy\C#\C# II\C# II projects\1. Arrays\03. Compare Two Char Arrays\obj\Debug\03. Compare Two Char Arrays.csprojResolveAssemblyReference.cache

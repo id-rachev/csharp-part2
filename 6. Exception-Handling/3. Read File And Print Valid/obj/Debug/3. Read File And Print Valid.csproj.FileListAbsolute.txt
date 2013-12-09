@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\3. Read File And Print Valid\bin\Debug\_3.Read_File_And_Print_Valid.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\3. Read File And Print Valid\bin\Debug\_3.Read_File_And_Print_Valid.pdb
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\3. Read File And Print Valid\obj\Debug\3. Read File And Print Valid.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\3. Read File And Print Valid\obj\Debug\_3.Read_File_And_Print_Valid.exe
+\\ICHO-LAP\Projects\Telerik Academy\C#\C# II\C# II projects\6. Exception-Handling\3. Read File And Print Valid\obj\Debug\_3.Read_File_And_Print_Valid.pdb
